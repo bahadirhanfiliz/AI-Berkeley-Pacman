@@ -3,16 +3,8 @@ Implementations of projects about artificial intelligence concepts from Berkeley
 
 This repository contains 3 folders from open source project http://ai.berkeley.edu/tracking.html 
 
+- Search
 
-Search
+- Multiagents
 
-Multiagents
-
-Reinforcement
-
-# Search
-
-# Multiagents
-
-# Reinforcement
-
+- Reinforcement
